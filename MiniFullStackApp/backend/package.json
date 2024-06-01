@@ -1,0 +1,21 @@
+{
+  "name": "smallfullstackapp",
+  "version": "1.0.0",
+  "description": "small application that has backend and frontend both",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node server.js"
+  },
+  "keywords": [
+    "node",
+    "frontend",
+    "backend"
+  ],
+  "author": "Siddhant Ashok",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
